@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brylimz.github.io/crypto-currency-app-react/static/css/main.073c9b0a.css",
+    "main.js": "/brylimz.github.io/crypto-currency-app-react/static/js/main.4e51e9af.js",
+    "static/js/787.f41d85a0.chunk.js": "/brylimz.github.io/crypto-currency-app-react/static/js/787.f41d85a0.chunk.js",
+    "static/media/logo.svg": "/brylimz.github.io/crypto-currency-app-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brylimz.github.io/crypto-currency-app-react/index.html",
+    "main.073c9b0a.css.map": "/brylimz.github.io/crypto-currency-app-react/static/css/main.073c9b0a.css.map",
+    "main.4e51e9af.js.map": "/brylimz.github.io/crypto-currency-app-react/static/js/main.4e51e9af.js.map",
+    "787.f41d85a0.chunk.js.map": "/brylimz.github.io/crypto-currency-app-react/static/js/787.f41d85a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.4e51e9af.js"
+  ]
+}
