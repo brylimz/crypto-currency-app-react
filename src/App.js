@@ -1,9 +1,20 @@
-import React from 'react'
-
+import React from "react";
+import {Switch, Route, Link} from 'react-router-dom'
+import {Layout, Typography, Space} from 'antd';
 const App = () => {
   return (
-    <div>App</div>
-  )
-}
+    <div className="app">
+      <div className="navbar">
+      </div>
 
-export default App
+      <div className="main">
+        </div>
+
+      <div className="footer">
+        </div>
+
+    </div>
+  );
+};
+
+export default App;
